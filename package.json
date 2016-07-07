@@ -38,6 +38,7 @@
     "mocha-sinon": "^1.1.5",
     "power-assert": "^1.4.1",
     "pug": "^2.0.0-beta3",
-    "sinon": "^1.17.4"
+    "sinon": "^1.17.4",
+    "underscore": "^1.8.3"
   }
 }
